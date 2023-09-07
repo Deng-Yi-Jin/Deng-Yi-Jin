@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deng Yi Jin, Lucas</h1>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/djin?1337Badge=off&UM6P=off" alt="djin's 42 stats" /></a>
 <h3 align="center">A 42KL student from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deng-yi-jin&label=Profile%20views&color=0e75b6&style=flat" alt="deng-yi-jin" /> </p>
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/djin?1337Badge=off&UM6P=off" alt="djin's 42 stats" /></a>
 
 - 🌱 I’m currently learning **C programming course. Soon will try to learn on Unity**
 
@@ -11,10 +10,11 @@
 
 - 📫 How to reach me **denglucasyijin@gmail.com**
 
-- ⚡ Fun fact **I'm a very open minded person**
+- ⚡ Fun fact **I'm not just a programmer. I do game too. Like a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/deng-yi-jin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deng-yi-jin" height="30" width="40" /></a>
 <a href="https://instagram.com/imsol_ucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imsol_ucas" height="30" width="40" /></a>
 </p>
 
